@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyOCR</string>
+    <string name="optical_character_recognition">OPTICAL CHARACTER RECOGNITION</string>
+    <string name="read_picture">Read Picture</string>
+    <string name="Scan">Scan</string>
+    <string name="No_text">No text</string>
+</resources>
